@@ -2,3 +2,5 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "base avec ananke pour udemy"
 theme = "ananke"
+[params]
+    featured_image = "/images/harry.jpg"
