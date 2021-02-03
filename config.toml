@@ -4,3 +4,5 @@ title = "base avec ananke pour udemy"
 theme = "ananke"
 [params]
     featured_image = "/images/harry.jpg"
+    recent_posts_number = 0
+    mainSections = ["content"]
